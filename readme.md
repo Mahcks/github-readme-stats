@@ -96,7 +96,6 @@ Visit <https://indiafightscorona.giveindia.org> and make a small donation to hel
     - [Keep your fork up to date](#keep-your-fork-up-to-date)   
 
 # GitHub Stats Card
-
 Copy-paste this into your markdown content, and that is it. Simple!
 
 Change the `?username=` value to your GitHub username.
